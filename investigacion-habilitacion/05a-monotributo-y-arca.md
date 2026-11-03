@@ -94,6 +94,21 @@ El componente de IIBB sale del [Régimen Simplificado de ARBA](https://www.arba.
 - **Escenario 100:** cuidado también con las **compras y gastos**. Si superan $101,3 millones por año, son causal de exclusión aunque la facturación entre en la K.
 - Los adicionales (placas, stickers, caja regalo) suman facturación. Un pedido con adicionales puede pasar de 50 USD.
 
+### 3.1 bis Cuándo dejás de poder ser monotributista y qué sigue
+- **Dejás de poder ser monotributista** cuando se da cualquier causal del punto 2.3. Para [MARCA], las más probables son:
+  - superar $126,6 millones en 12 meses (unos 127 pedidos por mes a 50 USD);
+  - importar para revender;
+  - compras y gastos por encima de $101,3 millones por año.
+- **Qué sigue: régimen general (responsable inscripto).** Esto es orientativo; el detalle lo arma el contador:
+  - **IVA:** cobrás 21 % de IVA sobre tus ventas. Emitís factura B a consumidor final, y A a responsables inscriptos. Computás el IVA de tus compras. Declaración jurada mensual.
+  - **Ganancias:** declaración jurada anual sobre la utilidad, con anticipos.
+  - **Aportes como trabajador autónomo** y obra social por separado. **[No verificado]** Montos vigentes.
+  - **IIBB:** sale del régimen simplificado y queda en régimen general (o CM), con declaraciones juradas mensuales.
+  - **Contador:** en la práctica, indispensable.
+  - **Precio:** si el precio al público queda igual, el IVA sale de tu margen. Calculalo **antes** de llegar al tope.
+- **Beneficio de transición:** si comunicás vos la exclusión o renunciás, hay ventajas en IVA y Ganancias (punto 2.3).
+- **Checklist completo de habilitación** (en orden y con bloqueos): está en el [00-indice.md](00-indice.md).
+
 ### 3.2 Qué decisiones dependen de esto
 | Decisión | Dato del que depende | Quién te lo da |
 |---|---|---|
